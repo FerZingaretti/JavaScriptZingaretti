@@ -50,6 +50,8 @@ switch (materia){
            
         break
 
+    
+
         
         
         }
@@ -83,10 +85,12 @@ switch (materia){
         alert ("usted ingreso incorrectamente las notas")
 
 }
-/* 
+
+
+
 function prom (nota1,nota2,nota3){
     Resultado  = ((nota1+nota2+nota3)/3)
-}   */
+}   
 
 /* let promedio=((nota1+nota2+nota3)/3)
 
